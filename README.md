@@ -1,2 +1,2 @@
 # hotels-oss-plugin-config
-Hotels OSS plugin configuration
+A set of configuration resources for Maven plug-ins
