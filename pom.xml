@@ -9,7 +9,7 @@
 
   <groupId>com.hotels</groupId>
   <artifactId>hotels-oss-plugin-config</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
   <description>Configuration files needed by various plugins (e.g. Checkstyle, Findbugs, Mycila, etc.)</description>
   <url>https://github.com/HotelsDotCom/hotels-oss-plugin-config</url>
   <inceptionYear>2015</inceptionYear>
