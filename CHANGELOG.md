@@ -1,6 +1,6 @@
 ## [TBD]
 ### Changed
-* Updated `nexus-staging-maven-plugin` version to 1.6.8.
+* Updated `nexus-staging-maven-plugin` version to 1.6.8. See [#4](https://github.com/HotelsDotCom/hotels-oss-plugin-config/issues/4).
 
 ## [1.1.0] - 2017-07-12
 ### Added
