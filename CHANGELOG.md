@@ -1,4 +1,8 @@
-## [1.2.0] - 2018-07-13
+## [1.2.1] - 2018-07-13
+### Fixed
+* Re-instated "jar" as package type, not pom (mistake in 1.2.0 release).
+
+## [1.2.0] - 2018-07-13 [YANKED]
 ### Changed
 * Moved to Sonatype's updated recommendations for publishing artifacts to Maven Central. See [#6](https://github.com/HotelsDotCom/hotels-oss-plugin-config/issues/6).
 * Updated `nexus-staging-maven-plugin` version to 1.6.8. See [#4](https://github.com/HotelsDotCom/hotels-oss-plugin-config/issues/4).
