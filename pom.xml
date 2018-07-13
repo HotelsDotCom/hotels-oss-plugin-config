@@ -7,7 +7,6 @@
   <description>Configuration files needed by various plugins (e.g. Checkstyle, Findbugs, Mycila, etc.)</description>
   <url>https://github.com/HotelsDotCom/hotels-oss-plugin-config</url>
   <inceptionYear>2015</inceptionYear>
-  <packaging>pom</packaging>
   <name>Hotels.com Open Source Plugin Configuration</name>
 
   <scm>
