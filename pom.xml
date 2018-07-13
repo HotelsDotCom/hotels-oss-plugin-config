@@ -9,6 +9,8 @@
   <description>Configuration files needed by various plugins (e.g. Checkstyle, Findbugs, Mycila, etc.)</description>
   <url>https://github.com/HotelsDotCom/hotels-oss-plugin-config</url>
   <inceptionYear>2015</inceptionYear>
+  <packaging>pom</packaging>
+  <name>Hotels.com Open Source Plugin Configuration</name>
 
   <scm>
     <connection>scm:git:git@github.com:HotelsDotCom/${project.artifactId}.git</connection>
@@ -21,6 +23,14 @@
     <name>Hotels.com (Data Platform Team)</name>
     <url>http://hotels.com</url>
   </organization>
+  
+  <developers>
+    <developer>
+      <name>HCom Committers</name>
+      <organization>Hotels.com</organization>
+      <organizationUrl>http://hotels.com</organizationUrl>
+    </developer>
+  </developers>
 
   <licenses>
     <license>
