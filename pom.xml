@@ -68,7 +68,7 @@
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
           <useReleaseProfile>false</useReleaseProfile>
-          <releaseProfiles>release</releaseProfiles>
+          <releaseProfiles>sonatype-oss-release</releaseProfiles>
           <goals>deploy</goals>
         </configuration>
       </plugin>
@@ -77,7 +77,7 @@
 
   <profiles>
     <profile>
-      <id>release</id>
+      <id>sonatype-oss-release</id>
       <build>
         <plugins>
           <plugin>
