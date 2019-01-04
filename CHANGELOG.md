@@ -1,6 +1,6 @@
 ## [TBD]
 ### Changed
-* Update Checkstyle configuration to ignore overriden parameter names and parameter numbers, as well as limiting the number of characters on a line to 120, ignoring where classes should be final and changing the indentation for switch statements from 2 to 0.
+* Updated Checkstyle configuration to ignore overriden parameter names and parameter numbers, as well as limit the number of characters on a line to 120, ignore where classes should be final and check that indentation for switch statements is 0 instead of 2.
 
 ## [1.2.1] - 2018-07-13
 ### Fixed
