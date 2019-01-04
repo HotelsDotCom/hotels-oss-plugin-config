@@ -1,3 +1,7 @@
+## [TBD]
+### Changed
+* Update Checkstyle configuration to ignore overriden parameter names and parameter numbers, as well as limiting the number of characters on a line to 120, ignoring where classes should be final and changing the indentation for switch statements from 2 to 0.
+
 ## [1.2.1] - 2018-07-13
 ### Fixed
 * Re-instated "jar" as package type, not pom (mistake in 1.2.0 release).
