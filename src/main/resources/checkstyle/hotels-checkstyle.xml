@@ -122,8 +122,6 @@
 
     <!-- Checks for class design                         -->
     <!-- See http://checkstyle.sf.net/config_design.html -->
-    <!-- TODO: REMOVE 
-    <module name="FinalClass" /> -->
     <module name="HideUtilityClassConstructor" />
     <module name="VisibilityModifier">
       <property name="protectedAllowed" value="true" />
