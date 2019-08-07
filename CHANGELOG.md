@@ -1,3 +1,7 @@
+## [1.3.0] - TBD
+### Added
+* SpotBugs exclude filter file
+
 ## [1.2.2] - 2019-01-07
 ### Changed
 * Updated Checkstyle configuration to ignore overriden parameter names and parameter numbers, as well as limit the number of characters on a line to 120, ignore where classes should be final and check that indentation for switch statements is 0 instead of 2.
