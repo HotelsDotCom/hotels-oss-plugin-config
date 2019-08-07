@@ -1,6 +1,6 @@
 ## [1.3.0] - TBD
 ### Added
-* SpotBugs exclude filter file
+* SpotBugs exclude filter file.
 
 ## [1.2.2] - 2019-01-07
 ### Changed
