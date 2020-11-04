@@ -1,6 +1,6 @@
 ## [1.4.0] - 2020-11-04
 ### Added
-- versions-plugin-rules.xml
+- versions-plugin-rules.xml.
 
 ## [1.3.0] - 2019-08-08
 ### Added
